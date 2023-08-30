@@ -9,7 +9,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "superagent": "^5.2.2",
+    "superagent": "^8.0.9",
     "xtend": "^4.0.1"
   },
   "scripts": {
