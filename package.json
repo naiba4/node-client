@@ -16,9 +16,9 @@
     "test": "istanbul cover _mocha -- --reporter list --recursive  ./tests/unit/"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.10",
     "istanbul": "^0.4.5",
-    "mocha": "^7.1.2",
+    "mocha": "^9.1.2",
     "sinon": "^9.0.2",
     "sinon-test": "^3.0.0"
   }
